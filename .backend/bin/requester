@@ -1,0 +1,6 @@
+#!/home/viq/projects/Cloudopss/replybet-backend/.backend/bin/python
+# -*- coding: utf-8 -*-
+
+from requester.requester import main
+
+main()
